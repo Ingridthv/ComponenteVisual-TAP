@@ -115,13 +115,22 @@ public class Main {
 Este proyecto está licenciado bajo los términos de la **MIT License**. Consulta el archivo [LICENSE](LICENSE) para más detalles.  
 
 ---
+## 📸 Vista previa
 
+<p align="center">
+  <img src="imagenes/componenteVisual.png" alt="Vista previa del Termómetro de Emociones" width="400">
+</p>
+
+---
 ## 📸 Otras capturas
 
-| Diseñador NetBeans                           | Proyecto de ejemplo implementado         |
-|-----------------------------------------------|-------------------------------------------|
-| ![Uso en NetBeans](imagenes/uso-netbeans.png) | ![Proyecto Ejemplo](imagenes/proyecto.png)|
+| Código fuente                              | Ejecución del componente                      |
+|---------------------------------------------|------------------------------------------------|
+| ![Código](imagenes/codigo.png)              | ![Ejecución](imagenes/ejecucion.png)           |
 
+| Propiedades en NetBeans                     | Uso dentro de un JFrame                        |
+|----------------------------------------------|-------------------------------------------------|
+| ![Propiedades](imagenes/propiedades.png)     | ![Uso](imagenes/uso.png)     
 ---
 
 # 🚀 ¡Listo para usar!
