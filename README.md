@@ -125,13 +125,13 @@ Este proyecto está licenciado bajo los términos de la **MIT License**. Consult
 
 ## 📸 Otras capturas
 
-| Código fuente                              | Ejecución del componente                      |
-|---------------------------------------------|------------------------------------------------|
-| ![Código](Imagenes/codigo.png)              | ![Ejecución](Imagenes/ejecucion.png)           |
+| Código fuente                              | Ejecución del componente                          |
+|---------------------------------------------|----------------------------------------------------|
+| ![Código](Imagenes/codigo.png)              | ![Ejecución](Imagenes/ejecucion.png)               |
 
-| Propiedades en NetBeans                     | Uso dentro de un JFrame                        |
-|----------------------------------------------|-------------------------------------------------|
-| ![Propiedades](Imagenes/propiedades.png)     | ![Uso](Imagenes/uso.png)                        |
+| Propiedades en NetBeans                     | Uso dentro de un JFrame                            |
+|----------------------------------------------|-----------------------------------------------------|
+| ![Propiedades](Imagenes/propiedades.png)     | ![Uso](Imagenes/uso.png)                            |
 
 ---
 
