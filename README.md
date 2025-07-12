@@ -134,6 +134,14 @@ Este proyecto está licenciado bajo los términos de la **MIT License**. Consult
 | ![Propiedades](Imagenes/propiedades.png)     | ![Uso](Imagenes/uso.png)                            |
 
 ---
+## 📺 Demo en YouTube
 
+🎥 Mira cómo funciona el **Termómetro de Emociones** en acción:  
+👉 [Ver video en YouTube](## 📺 Demo en YouTube
+
+🎥 Mira cómo funciona el **Termómetro de Emociones** en acción:  
+👉 [Ver video en YouTube](https://www.youtube.com/watch?v=TU_VIDEO_ID)
+)
+---
 # 🚀 ¡Listo para usar!
 Integra el **Termómetro de Emociones** en tus proyectos Java y dale un toque visual atractivo e interactivo. 🌈
