@@ -51,7 +51,7 @@ Un componente visual en **Java Swing** que representa estados emocionales de for
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone (https://github.com/Ingridthv/ComponenteVisual-TAP)
 ```
 
 ### 2️⃣ Importar el componente a NetBeans
