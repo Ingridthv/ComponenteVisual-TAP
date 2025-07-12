@@ -106,7 +106,7 @@ public class Main {
 ## 👩‍💻 Créditos
 
 - 👩‍🎨 **Ingrid Arcadio Aparicio**  
-- 👩‍🎨 **Xana Amalinalli Pérez Giménez**
+- 👩‍🎨 **Xana Amalinalli Pérez Jiménez**
 
 ---
 
