@@ -132,7 +132,9 @@ Este proyecto está licenciado bajo los términos de la **MIT License**. Consult
 | Propiedades en NetBeans                     | Uso dentro de un JFrame                            |
 |----------------------------------------------|-----------------------------------------------------|
 | ![Propiedades](Imagenes/propiedades.png)     | ![Uso](Imagenes/uso.png)                            |
-
+---
+## Mostrar JavaDoc
+👀Dale click(file:///C:/Users/ingri/OneDrive/Documentos/NetBeansProjects/ComponenteTermometro1/dist/javadoc/Componente/TermometroEmociones.html )
 ---
 ## 📺 Demo en YouTube
 
